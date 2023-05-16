@@ -1,8 +1,7 @@
 {
   "keys": [
     {
-      "id": 1,
-      "title": "Energy Price Collector Key",
+      "module": "CXTOOLEPRC",
       "key": "6I9SeCQJtInMvHDNIwySRaqtkdAwCaDC"
     }
   ]
