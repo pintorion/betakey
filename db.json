@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "keys": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Energy Price Collector Key",
+      "key": "6I9SeCQJtInMvHDNIwySRaqtkdAwCaDC"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
